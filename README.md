@@ -1,5 +1,6 @@
 # ex-api-bank
 Exemplo de API - Banco
+Utilizando NODE.JS
 
 API simples para testes de conhecimento utilizando um banco que consulta nome, saldo, atualização de saldo e exclusão.
 
